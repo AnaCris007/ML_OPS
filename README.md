@@ -114,7 +114,7 @@ A arquitetura segue seis princípios:
 
 *Figura 1: Arquitetura de aprendizado contínuo proposta. Fonte: elaboração própria.*
 
-> **Arquivos do diagrama:** a fonte editável está em [diagrama-arquitetura.drawio](diagrama-arquitetura.drawio), que pode ser aberta em [app.diagrams.net](https://app.diagrams.net) ou na extensão Draw.io do VS Code. Há também uma versão em imagem em [diagrama-arquitetura.png](diagrama-arquitetura.png).
+> **Arquivos do diagrama:** a fonte editável está em [diagrama-arquitetura.drawio](diagrama-arquitetura.drawio), que pode ser aberta em [app.diagrams.net](https://app.diagrams.net). Há também uma versão em imagem em [diagrama-arquitetura.png](diagrama-arquitetura.png).
 
 **Como ler o diagrama.** O sistema está dividido em três faixas horizontais, e cada uma funciona em um ritmo diferente, indicado na lateral esquerda:
 
@@ -334,8 +334,6 @@ A contribuição desta proposta não está em nenhuma técnica isolada. LoRA, EW
 O aprendizado mais importante que tirei deste trabalho é que o maior desafio não é técnico, e sim organizacional. O gargalo não está em GPUs ou algoritmos, mas na capacidade de definir com clareza o que significa uma resposta "melhor", medir isso de forma confiável e manter essa medição ao longo do tempo. Uma organização que resolve essa questão transforma seu sistema conversacional em algo que melhora com o uso. Uma que não resolve corre o risco de construir uma infraestrutura sofisticada que apenas automatiza a piora do próprio produto.
 
 ## 4. Referências Bibliográficas
-
-> Referências organizadas segundo a ABNT NBR 6023:2018, em ordem alfabética. Artigos de periódicos trazem local, volume, número, páginas, ano e DOI; trabalhos de eventos trazem o nome do evento, número, ano, local, título dos anais, editora e páginas, quando disponíveis; documentos consultados online trazem endereço e data de acesso.
 
 BIFET, A.; GAVALDÀ, R. Learning from time-changing data with adaptive windowing. In: SIAM INTERNATIONAL CONFERENCE ON DATA MINING, 7., 2007, Minneapolis. **Proceedings** [...]. Philadelphia: SIAM, 2007. p. 443-448. DOI: https://doi.org/10.1137/1.9781611972771.42.
 
