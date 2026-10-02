@@ -1,0 +1,15 @@
+semana,fase,ks_componentes,psi,limite_psi,reprovacao,adwin,acerto_referencia,decisao
+1,estavel,0,0.023,0.039,0.038,False,1.0,Monitorar
+2,estavel,0,0.03,0.039,0.038,False,1.0,Monitorar
+3,estavel,0,0.024,0.039,0.038,False,1.0,Monitorar
+4,estavel,0,0.022,0.039,0.042,False,1.0,Monitorar
+5,covariate,6,0.192,0.039,0.034,False,1.0,Investigar entrada; sem degradação
+6,covariate,10,0.204,0.039,0.032,False,1.0,Investigar entrada; sem degradação
+7,covariate,8,0.22,0.039,0.032,False,1.0,Investigar entrada; sem degradação
+8,covariate,10,0.211,0.035,0.024,False,1.0,Mudança benigna; referência atualizada
+9,deriva_real,0,0.022,0.035,0.142,True,0.825,Alerta de resultado; aguardar persistência
+10,deriva_real,0,0.027,0.035,0.124,False,0.825,Drift confirmado (reembolso); atualizar base de conhecimento
+11,apos_correcao,0,0.029,0.035,0.044,False,1.0,Monitorar
+12,apos_correcao,0,0.031,0.035,0.04,False,1.0,Monitorar
+13,apos_correcao,0,0.025,0.035,0.038,False,1.0,Monitorar
+14,apos_correcao,0,0.031,0.035,0.048,False,1.0,Monitorar
